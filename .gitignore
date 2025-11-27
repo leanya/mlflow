@@ -1,0 +1,5 @@
+# Ignore files starting with double underscore
+__*  
+
+# Ignore Jupyter Notebooks 
+*.ipynb
